@@ -2,9 +2,7 @@
 
 <div>
 <img align=right width="120vw" src="Overture-logo.png" alt="arranger-logo"/>
-</div>
-
-## About Us
+</div> 
 
 Overture is a collection of open-source software used to overcome significant
 obstacles in storing, managing, and sharing genome-scale datasets. Overture is

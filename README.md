@@ -35,7 +35,7 @@ providing cutting-edge open source software solutions.
   components for cloud infrastructure, data shepherding, and analysis.
 
 As an open-source project, we are continuously refining our software and are
-[open to contributions](CONTRIBUTIONS.MD) and [feedback](LINKTOFEEDBACK) from
+[open to contributions](CONTRIBUTION.MD) and [feedback](LINKTOFEEDBACK) from
 the community. We invite you to check out our
 [development goals](ROADMAP.MD), and if you wish to contact us
 remotely, our Slack channel, like our software, will always be open and

@@ -4,7 +4,7 @@
 <img align=left width="120vw" src="Overture-logo.png" alt="arranger-logo"/>
 </div>
 
-Overture is a collection of open-source software used to overcome significant
+**Overture** is a collection of open-source software used to overcome significant
 obstacles in storing, managing, and sharing genome-scale datasets. Overture is
 developed and maintained by the Software Engineering team at the Ontario
 Institute for Cancer Research (OICR). Our vision is to help research,

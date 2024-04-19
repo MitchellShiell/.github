@@ -1,7 +1,7 @@
 ## Development Goals
 
 <div>
-<img align=left width="100%" src="roadmapillustration.webp" alt="oveture_devs"/>
+<img align=left width="50%" src="roadmapillustration.webp" alt="oveture_devs"/>
 </div>
 
 The following is a non-exhaustive, alphabetized list of Overture development

@@ -1,5 +1,9 @@
 ## Development Goals
 
+<div>
+<img align=left width="100%" src="roadmapillustration.webp" alt="oveture_devs"/>
+</div>
+
 The following is a non-exhaustive, alphabetized list of Overture development
 goals. If you have an idea that is not listed below, we encourage you to [submit
 a feature request](https://github.com/mitchellshiell/mitchellshiell/issues/new?template=feature_request.md

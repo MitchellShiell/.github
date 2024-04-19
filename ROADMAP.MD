@@ -1,23 +1,4 @@
-# Build, Deploy, Discover
-
-<div>
-<img align=right width="120vw" src="Overture-logo.png" alt="arranger-logo"/>
-</div>
-
-## About Us
-
-Overture is a collection of open-source software used to overcome significant
-obstacles in storing, managing, and sharing genome-scale datasets. Overture is
-developed and maintained by the Software Engineering team at the Ontario
-Institute for Cancer Research (OICR). Our vision is to help research,
-healthcare, and patient communities collaborate and advance genomic research by
-providing cutting-edge open source software solutions. As an open-source
-project, we are continuously refining our software and are open to contributions
-and feedback from the community. We invite you to check out our development
-goals outlined below, and if you wish to contact us remotely, our Slack channel,
-like our software, will always be open and available.
-
-## Development Goals
+# Development Goals
 
 The following is a non-exhaustive, alphabetized list of Overture development
 goals. If you have an idea that is not listed below, we encourage you to [submit

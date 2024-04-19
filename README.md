@@ -39,5 +39,5 @@ As an open-source project, we are continuously refining our software and are
 )** from
 the community. We invite you to check out our
 **[development goals](ROADMAP.MD)**, and if you wish to contact us
-remotely, [our Slack channel](https://join.slack.com/t/overture-bio/shared_invite/zt-21tdumtdh-9fP1TFeLepK4~Lc377rOYw), like our software, will always be open and
+remotely, **[our Slack channel](https://join.slack.com/t/overture-bio/shared_invite/zt-21tdumtdh-9fP1TFeLepK4~Lc377rOYw)**, like our software, will always be open and
 available.

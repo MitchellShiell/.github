@@ -35,7 +35,7 @@ providing cutting-edge open source software solutions.
   components for cloud infrastructure, data shepherding, and analysis.
 
 As an open-source project, we are continuously refining our software and are
-**[open to contributions](CONTRIBUTION.MD)** and **[feedback](https://github.com/mitchellshiell/mitchellshiell/issues/new?template=feature_request.md
+**[open to contributions](https://github.com/MitchellShiell/mitchellshiell/blob/main/ROADMAP.MD#how-to-contribute)** and **[feedback](https://github.com/mitchellshiell/mitchellshiell/issues/new?template=feature_request.md
 )** from
 the community. We invite you to check out our
 **[development goals](ROADMAP.MD)**, and if you wish to contact us

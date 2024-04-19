@@ -35,8 +35,8 @@ providing cutting-edge open source software solutions.
   components for cloud infrastructure, data shepherding, and analysis.
 
 As an open-source project, we are continuously refining our software and are
-[open to contributions](LINKTOCONTRIBITIONS) and [feedback](LINKTOFEEDBACK) from
+[open to contributions](https://github.com/MitchellShiell/mitchellshiell/blob/main/CONTRIBUTIONS.MD) and [feedback](LINKTOISSUESTEMPLATE) from
 the community. We invite you to check out our
-[development goals](LINKTODEVELOPMENTGOALS), and if you wish to contact us
+[development goals](https://github.com/MitchellShiell/mitchellshiell/blob/main/ROADMAP.MD), and if you wish to contact us
 remotely, our Slack channel, like our software, will always be open and
 available.
